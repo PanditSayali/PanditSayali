@@ -13,6 +13,6 @@ I specialize in both front-end and back-end development, and I'm passionate abou
 <a href="https://www.linkedin.com/in/sayali-pandit-049236211/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
 </a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href="">
   <img src="https://img.shields.io/badge/GMAIL-E4405F?style=for-the-badge&logo=GMAIL&logoColor=white" alt="" /> 
 </a>
